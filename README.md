@@ -1,2 +1,2 @@
 # OlaMundo
- Aulas do Curso em Vídeo com Gustavo Guanabara
+ Repositório com aulas do Curso em Vídeo com Gustavo Guanabara
